@@ -14,8 +14,9 @@ def setup(browser):
         driver = webdriver.Chrome()
     return driver
 
-def pytest_addoption(parser): #This will get the value from CLI/hooks
+def pytest_addoption(parser): #This will get the value from CLI/hooks.This function is used to add a command-line option --browser to your pytest test runs. It allows you to specify the browser you want to use when running tests from the command line.
     parser.addoption("--browser")
+
 
 @pytest.fixture()
 def browser(request): #This will return the Browser value to setup method

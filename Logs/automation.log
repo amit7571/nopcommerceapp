@@ -492,3 +492,70 @@
 2023-08-01 17:16:48,443: INFO: *******Login test is pass*******
 2023-08-01 17:16:48,443: INFO: *******Login test is pass*******
 2023-08-01 17:16:48,443: INFO: *******Login test is pass*******
+2023-08-02 17:57:42,860: WARNING: Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+2023-08-02 17:57:42,860: WARNING: Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+2023-08-02 17:57:42,860: WARNING: Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+2023-08-02 17:57:42,860: WARNING: Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+2023-08-02 17:57:42,860: WARNING: Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+2023-08-02 17:57:45,424: INFO: *******Test_001_Login*****
+2023-08-02 17:57:45,424: INFO: *******Test_001_Login*****
+2023-08-02 17:57:45,424: INFO: *******Test_001_Login*****
+2023-08-02 17:57:45,424: INFO: *******Test_001_Login*****
+2023-08-02 17:57:45,424: INFO: *******Test_001_Login*****
+2023-08-02 17:57:45,462: INFO: **************Verifying Home Page Title*************
+2023-08-02 17:57:45,462: INFO: **************Verifying Home Page Title*************
+2023-08-02 17:57:45,462: INFO: **************Verifying Home Page Title*************
+2023-08-02 17:57:45,462: INFO: **************Verifying Home Page Title*************
+2023-08-02 17:57:45,462: INFO: **************Verifying Home Page Title*************
+2023-08-02 17:57:49,674: INFO: ****************Home page title test is pass************
+2023-08-02 17:57:49,674: INFO: ****************Home page title test is pass************
+2023-08-02 17:57:49,674: INFO: ****************Home page title test is pass************
+2023-08-02 17:57:49,674: INFO: ****************Home page title test is pass************
+2023-08-02 17:57:49,674: INFO: ****************Home page title test is pass************
+2023-08-02 17:57:51,623: INFO: **************** Verifying the Loggin Test************
+2023-08-02 17:57:51,623: INFO: **************** Verifying the Loggin Test************
+2023-08-02 17:57:51,623: INFO: **************** Verifying the Loggin Test************
+2023-08-02 17:57:51,623: INFO: **************** Verifying the Loggin Test************
+2023-08-02 17:57:51,623: INFO: **************** Verifying the Loggin Test************
+2023-08-02 17:57:55,577: INFO: *******Login test is pass*******
+2023-08-02 17:57:55,577: INFO: *******Login test is pass*******
+2023-08-02 17:57:55,577: INFO: *******Login test is pass*******
+2023-08-02 17:57:55,577: INFO: *******Login test is pass*******
+2023-08-02 17:57:55,577: INFO: *******Login test is pass*******
+2023-08-02 18:27:32,410: INFO: *******Test_001_Login*****
+2023-08-02 18:27:32,410: INFO: *******Test_001_Login*****
+2023-08-02 18:27:32,410: INFO: *******Test_001_Login*****
+2023-08-02 18:27:32,410: INFO: *******Test_001_Login*****
+2023-08-02 18:27:32,410: INFO: *******Test_001_Login*****
+2023-08-02 18:27:32,444: INFO: **************Verifying Home Page Title*************
+2023-08-02 18:27:32,444: INFO: **************Verifying Home Page Title*************
+2023-08-02 18:27:32,444: INFO: **************Verifying Home Page Title*************
+2023-08-02 18:27:32,444: INFO: **************Verifying Home Page Title*************
+2023-08-02 18:27:32,444: INFO: **************Verifying Home Page Title*************
+2023-08-02 18:27:36,142: INFO: ****************Home page title test is pass************
+2023-08-02 18:27:36,142: INFO: ****************Home page title test is pass************
+2023-08-02 18:27:36,142: INFO: ****************Home page title test is pass************
+2023-08-02 18:27:36,142: INFO: ****************Home page title test is pass************
+2023-08-02 18:27:36,142: INFO: ****************Home page title test is pass************
+2023-08-02 18:27:39,134: INFO: **************** Verifying the Loggin Test************
+2023-08-02 18:27:39,134: INFO: **************** Verifying the Loggin Test************
+2023-08-02 18:27:39,134: INFO: **************** Verifying the Loggin Test************
+2023-08-02 18:27:39,134: INFO: **************** Verifying the Loggin Test************
+2023-08-02 18:27:39,134: INFO: **************** Verifying the Loggin Test************
+2023-08-02 18:27:46,244: INFO: *******Login test is pass*******
+2023-08-02 18:27:46,244: INFO: *******Login test is pass*******
+2023-08-02 18:27:46,244: INFO: *******Login test is pass*******
+2023-08-02 18:27:46,244: INFO: *******Login test is pass*******
+2023-08-02 18:27:46,244: INFO: *******Login test is pass*******
+2023-08-18 17:59:14,161: WARNING: Error getting version of chromedriver 116. Retrying with chromedriver 115 (attempt 1/5)
+2023-08-18 17:59:14,162: WARNING: Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 2/5)
+2023-08-18 19:10:18,788: INFO: *******Test_001_Login*****
+2023-08-18 19:10:18,800: INFO: **************Verifying Home Page Title*************
+2023-08-18 19:10:22,863: INFO: ****************Home page title test is pass************
+2023-08-18 19:10:24,816: INFO: **************** Verifying the Loggin Test************
+2023-08-18 19:10:31,281: INFO: *******Login test is pass*******
+2023-08-22 13:38:06,280: INFO: *******Test_001_Login*****
+2023-08-22 13:38:06,293: INFO: **************Verifying Home Page Title*************
+2023-08-22 13:38:10,920: INFO: ****************Home page title test is pass************
+2023-08-22 13:38:14,205: INFO: **************** Verifying the Loggin Test************
+2023-08-22 13:38:22,227: INFO: *******Login test is pass*******

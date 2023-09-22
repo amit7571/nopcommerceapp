@@ -1,0 +1,2 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:125 Error getting version of chromedriver 116. Retrying with chromedriver 115 (attempt 1/5)
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:125 Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 2/5)

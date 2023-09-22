@@ -3,7 +3,8 @@ from selenium import webdriver
 from pageObjects.LoginPage import LoginPage
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
-
+import allure
+from allure_commons.types import AttachmentType
 
 
 class Test_001_Login:
@@ -14,6 +15,7 @@ class Test_001_Login:
 
     @pytest.mark.sanity
     @pytest.mark.regression
+    @allure.severity(allure.severity_level.NORMAL)
 
     def test_homePageTitle(self,setup):
         self.logger.info('*******Test_001_Login*****')
@@ -27,6 +29,7 @@ class Test_001_Login:
             self.driver.close()
             self.logger.info("****************Home page title test is pass************")
         else:
+            allure.attach(self.driver.get_screenshot_as_png(),name="hometitlefail",attachment_type=AttachmentType.PNG)
             self.driver.save_screenshot("./Screenshots/test_homePageTitle.png")
             self.driver.close()
             self.logger.error("****************Home page title test is Failed************")
@@ -49,6 +52,7 @@ class Test_001_Login:
             self.logger.info("*******Login test is pass*******")
             self.driver.close()
         else:
+            allure.attach(self.driver.get_screenshot_as_png(),name="logintestfail",attachment_type=AttachmentType.PNG)
             self.driver.save_screenshot("./Screenshots/test_login.png")
             self.driver.close()
             self.logger.error("*********Login Test if Failed**********")
